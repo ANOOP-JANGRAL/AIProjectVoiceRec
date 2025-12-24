@@ -1,4 +1,7 @@
 # AIProjectVoiceRec
+The agent progresses step-by-step:
+
+
 START
  ↓
 ASK_NAME
